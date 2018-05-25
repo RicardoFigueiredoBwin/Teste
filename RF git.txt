@@ -23,9 +23,16 @@ The key's randomart image is:
 |                 |
 +----[SHA256]-----+
 
+
 AULA-01@DH-A1-09 MINGW64 ~
 $ cat ~/.ssh/id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDCNrsRP3VhDvzkJ7fNKUyF8Ke5YXnJuR3wzZL6DxscnoxA6iFX3HjcgPmzEi49YTiu/ISbQR3zArXTGrPidjcD/whFGswEN+VE2V1UnFT9qrMaeSp0AnxNjqVlixV6tPBtEHyFwAzfa3/4lPavVhqgf1RZ/iPW1Gxwq04CJBDU3xdN18JVVwHS20jM4jwQseEpdjwzeUOcwX0kmODJuoseq3Pso8b2C8RPj+3uGL53RiOn01SCgLvLIgVuh4eOAn7rIvk6f5scI4xHwCplBhksYL+4rOJQhdLMKzfPn6W9Nr19vVvTFufO7b8tjiY9CxjrDp3M3rzcR6KGCFmpcimwKCqU3swxVxa3Bt0WLdVdG1J1S4Mzp3TaOgHWSi4eab7hcuvSHVGt04FNJGOblSrleoGQnjYiyx360KxdvNjfZA6zH/i8spFqFDfESJFhGfJcsj6o3w3QxVNZPQQOKHcZ3Rpl4azEJ41MiFkQ46BhOiit+PvTW8k+ueAQnP+LUOMTwJKQCgow7BtPoc8ibVfyJ8LtGoom6cx1llG94uT7GZ1iv0FR3hTIsvaDOeJaRmzM/hMi+VP4qvaorTdtyqaEc15wJfFbbOZ8ho+44RlfDUx7a6uUPkksqm7K6ThTtuYcCIVQIP//KHe4vWSAYegUYTQ1aQjf5Tp3GO/mqFdj8Q== ricardo_r_figueiredo@yahoo.com.br
 
 AULA-01@DH-A1-09 MINGW64 ~
 $ ssh-keygen -t rsa -b 4096 -C "ricardo_r_figueiredo@yahoo.com.br"
+
+
+
+
+
+Editado 24/05/2018
